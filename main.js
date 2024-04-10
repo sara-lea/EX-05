@@ -1,0 +1,1 @@
+alert|("I, I'm the js page!!")
